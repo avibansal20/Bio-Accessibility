@@ -92,11 +92,11 @@ section {
 }
 
 .decorative-element {
-    width: 100px;
+    width: 250px;
     height: auto;
     margin: 20px auto;
     display: block;
-    opacity: 0.3;
+    opacity: 1;
 }
 
 /* Lists */
